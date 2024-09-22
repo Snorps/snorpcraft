@@ -28,3 +28,8 @@ metafile = true
 file = "resourcepacks/barebones.pw.toml"
 hash = "8256b3484b0af222f968ef9b5570d9a8fb769880140b65edbeabff35906d54d8"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary_.reworked.pw.toml"
+hash = "93a93c76a29aaa462a791ffeb6de48a2bb724dc68126c2b25d5fc3704b512a5d"
+metafile = true
