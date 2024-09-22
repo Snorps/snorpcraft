@@ -1,13 +1,13 @@
-name = "packwiz Example Pack"
-author = "comp500"
-version = "1.0.0"
+name = "Snorpcraft 1.21"
+author = "Snorps"
+version = "1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "29bcf953b90081730cd8a32cc4d855ab6ad96685c3aeea6ed033dc4f04d390ac"
+hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
 
 [versions]
-minecraft = "1.19"
-quilt = "0.17.0"
+fabric = "0.16.5"
+minecraft = "1.21"
