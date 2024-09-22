@@ -15,6 +15,16 @@ hash = "e65f1856eed8725712eb26dd607cbed73de44b430bb069ba543ff706b35b2603"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
+metafile = true
+
+[[files]]
 file = "resourcepacks/barebones.pw.toml"
 hash = "8256b3484b0af222f968ef9b5570d9a8fb769880140b65edbeabff35906d54d8"
 metafile = true
