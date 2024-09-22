@@ -1,0 +1,8 @@
+name = "Bare Bones"
+filename = "Bare Bones 1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rox3U8B6/versions/7zc13gCi/Bare%20Bones%201.21.zip"
+hash-format = "sha256"
+hash = "c350fa7b356a75ccbca1193ad553699592bd7daaeb712bcdd68a92bf4414b923"
