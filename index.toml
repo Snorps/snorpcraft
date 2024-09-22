@@ -33,3 +33,8 @@ metafile = true
 file = "shaderpacks/complementary_.reworked.pw.toml"
 hash = "93a93c76a29aaa462a791ffeb6de48a2bb724dc68126c2b25d5fc3704b512a5d"
 metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs_enhanced_default.pw.toml"
+hash = "c651c0c37e8a2991b7e028928c990556f8e569074fda992660aba5999a858a98"
+metafile = true

@@ -1,0 +1,8 @@
+name = "Sildur's Enhanced Default"
+filename = "Sildur's Enhanced Default v1.171 Fancy.zip"
+side = "client"
+
+[download]
+url = "https://www.curseforge.com/api/v1/mods/544140/files/5442776/download"
+hash-format = "sha256"
+hash = "3b0cd5c36afebdcd74521a447ca5f2b0d6f9c1c8c8416a9f20d9bedc271a8e1c"
