@@ -1,2 +1,11 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "e25f8d5bbea8e14e71fc686644c34f588b97e8e655286101e92824fb547c798d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5507005940d7a59c0c120e864241fe5ebcadb0968ff728b501a7b33c9826c948"
+metafile = true
