@@ -1,0 +1,8 @@
+name = "Monophonic Shaders"
+filename = "Monophonic 1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sC1oZTSS/versions/9oUZynEs/Monophonic%201.1.zip"
+hash-format = "sha256"
+hash = "a15b5e61f38f006a987664b629aa389d4f14846693e66beecb0db96ffe67ed81"

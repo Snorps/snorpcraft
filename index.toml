@@ -44,6 +44,11 @@ hash = "93a93c76a29aaa462a791ffeb6de48a2bb724dc68126c2b25d5fc3704b512a5d"
 metafile = true
 
 [[files]]
+file = "shaderpacks/monophonic.pw.toml"
+hash = "a23da57bb98fcebc6671e31667517e1c6fdadf3043f27bed09ff7b1b94b37fff"
+metafile = true
+
+[[files]]
 file = "shaderpacks/sildurs_enhanced_default.pw.toml"
 hash = "a860548c2b3d5cd63207f4159253aa4d6adee0c718d9fddac49ac3ef217566e1"
 metafile = true
