@@ -1,8 +1,0 @@
-name = "Default PBR"
-filename = "DefaultPBR.zip"
-side = "client"
-
-[download]
-url = "https://cdn.modrinth.com/data/dx4KvykQ/versions/cmlgJ3bG/DefaultPBR.zip"
-hash-format = "sha256"
-hash = "4eb34ac5bdf30e23728b7fdcf098f4bb890b93ab56aeb9ee0ee2cdc042a16c1c"

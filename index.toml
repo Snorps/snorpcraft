@@ -30,13 +30,12 @@ hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
 metafile = true
 
 [[files]]
-file = "resourcepacks/barebones.pw.toml"
-hash = "8256b3484b0af222f968ef9b5570d9a8fb769880140b65edbeabff35906d54d8"
-metafile = true
+file = "resourcepacks/DefaultPBR.zip"
+hash = "505d06717d13742dfac4986de0a0e900b8cf56511807d6792d41ff8ba2df7f1a"
 
 [[files]]
-file = "resourcepacks/defaultpbr.pw.toml"
-hash = "468340b6ded04356156e2d6e268dc45bdd265884b89bd482b9e3854d68401b43"
+file = "resourcepacks/barebones.pw.toml"
+hash = "8256b3484b0af222f968ef9b5570d9a8fb769880140b65edbeabff35906d54d8"
 metafile = true
 
 [[files]]
