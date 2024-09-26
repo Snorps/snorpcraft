@@ -15,6 +15,11 @@ hash = "931fa7587facbc9b334c7539722b2dacaac520f253ebfbc5b87665d5abbcea77"
 metafile = true
 
 [[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "fbfb27fa8d27ecb7591ac88adf72575afdf2ca48882e7aa0ed34bcee569c2e24"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "e25f8d5bbea8e14e71fc686644c34f588b97e8e655286101e92824fb547c798d"
 metafile = true
@@ -32,6 +37,16 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "26c99fa218a8f7cc87629d8e7bdb03120e5a0fb54b89960477578eee05a7b49f"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
 metafile = true
 
 [[files]]
