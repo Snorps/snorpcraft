@@ -35,6 +35,11 @@ hash = "e65f1856eed8725712eb26dd607cbed73de44b430bb069ba543ff706b35b2603"
 metafile = true
 
 [[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "c78c2d26feb460adb112cda9ec5073f8968298f1d215eb8679fd67f55f3c3124"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
 metafile = true
