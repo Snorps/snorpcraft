@@ -1,6 +1,6 @@
-name = "Snorpcraft 1.21"
+name = "Snorpcraft 1.21.7"
 author = "Snorps"
-version = "19"
+version = "20"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "d83eda6b261448df9c44114618e68b5cf29085c1457eebf23e540a1c9f539c56"
 
 [versions]
 fabric = "1.0.3"
-minecraft = "1.21.7"
+minecraft = "0.16.14"
