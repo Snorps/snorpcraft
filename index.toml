@@ -25,10 +25,6 @@ hash = "9e11c7c6bd617d23927f73335d5e631d0272ddc054af5f84ee30af75a9e522d3"
 metafile = true
 
 [[files]]
-file = "mods/crackedlogin-21.jar"
-hash = "dc186cac527e9c0f15b73ba0f2634babc6a1046b5509ea8a6fd5281b758f747d"
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "c9957444ba8463af60d993a592d325e262c36804a18001722ecd6b63a51d9b8f"
 metafile = true
