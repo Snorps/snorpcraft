@@ -1,13 +1,13 @@
 name = "Configured Defaults"
-filename = "ConfiguredDefaults-v8.0.1-1.20.1-Fabric.jar"
+filename = "ConfiguredDefaults-v21.7.0-1.21.7-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SISoSFPP/versions/hOcrPrzr/ConfiguredDefaults-v8.0.1-1.20.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/SISoSFPP/versions/RmNa0X4M/ConfiguredDefaults-v21.7.0-1.21.7-Fabric.jar"
 hash-format = "sha512"
-hash = "b8da63a987067be039f4535afdf450d28fc150b2446a7008064bca3ccddf7e0fbfaf0b813d69229e8cadb48634851fbf3eeb47e3fc2e667267a7bbc29e989b07"
+hash = "e70f6cf8fa15cc6621d413f8d9d63d4ab44d102ca9c9d12d27431638dfc7c84db8f3de574905fb1d649fdf18f485602acbe291ef147a50fe209918cf04974db1"
 
 [update]
 [update.modrinth]
 mod-id = "SISoSFPP"
-version = "hOcrPrzr"
+version = "RmNa0X4M"
