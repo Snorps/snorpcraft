@@ -30,11 +30,6 @@ hash = "c668eaac99364f5f0fc467202d0fddfbd6a2126ea9c7b699f7ea86444e0b1269"
 metafile = true
 
 [[files]]
-file = "mods/ears.pw.toml"
-hash = "b06a7f30dcd9f9df9d10998274ee6b419c59f2a61a07833aafc2a62b929d3bec"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
 metafile = true
