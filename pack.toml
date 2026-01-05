@@ -1,13 +1,13 @@
 name = "Snorpcraft 1.21.7"
 author = "Snorps"
-version = "26"
+version = "27"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "17614b7c5d52b52405fa5370b079cec516f1cefbc727853fb164ba792d409b7c"
+hash = "44c5ea65423fe2c3b9c65d22d94ffa6b2fa917533b2be9f0d2e19f4df2487183"
 
 [versions]
-fabric = "0.16.14"
-minecraft = "1.21.7"
+fabric = "0.18.4"
+minecraft = "1.21.11"

@@ -1,13 +1,13 @@
 name = "AudioPlayer"
-filename = "audioplayer-fabric-1.21.7-1.13.2.jar"
+filename = "audioplayer-fabric-2.1.0+1.21.11.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/1cNRNynB/audioplayer-fabric-1.21.7-1.13.2.jar"
+url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/cxRGd2KF/audioplayer-fabric-2.1.0%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "555ad4b922883fad02b3c34d7151512169dd0c8bf2a3e119b452bb5b403447df2b11dd8de90956afdbc0ca611c900c5f81b54bff03a1a02c1a71b403609d270b"
+hash = "81a1c432e51812e5ff7a2f3ea8030191d1f53ae4a3d42ab647358f52327e890c6d22b779c1ec02c5e92a3e438851d26aa6709dbb44af2d05fdd7c7d34e2f1dd4"
 
 [update]
 [update.modrinth]
 mod-id = "SRlzjEBS"
-version = "1cNRNynB"
+version = "cxRGd2KF"
