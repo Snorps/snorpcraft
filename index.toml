@@ -6,67 +6,67 @@ hash = "f2251190601777354f564eb26a5413b45cd817bf6598ccf37b4cb316bd6a6349"
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "5f2f0ac0042cf3a274098074d3acee7e61692d1c0a2ef87d883f9607aeefef9d"
+hash = "ebe0fe7bae4b6eefef10ff9fb7156cc9540ba007c04d4616b00a2a5301d608cf"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
 metafile = true
 
 [[files]]
 file = "mods/configured-defaults.pw.toml"
-hash = "cb07f1e3b039be7c3e0e2fe4ad8289e9e800c66a4c4f4e5eb244d1a26dd542d3"
+hash = "9df0887260826bf35df34c34a47474dfbbdfe66c7a524cb1f4d2f74270889329"
 metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "f89f5f135170f999c531451c50937db67abeb0b0ff623d030f35f509837209a4"
+hash = "1528e186af5478da907be903ee423f1ec97b2b6090b1dc4d79794b256704772a"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "c668eaac99364f5f0fc467202d0fddfbd6a2126ea9c7b699f7ea86444e0b1269"
+hash = "813e5457c898d3ffb8d20bac7d3399b2170b32daaffd84485f601eb97dc43c50"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
+hash = "fed9bdaac0173f3cab2692f538441afda1e2cd46c6f6363790b424c009e34e03"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
+hash = "19e74f770611dabc1bd0713f3a7622abd65b4aaca6b37282135e8fb462630f2d"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
+hash = "137f9f7268efee46f378498be772d7828ac77ba239294c7051a782c9f0ee56ae"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
+hash = "f675fb68db6493e26d25e860443249d2f6d681751c53f23cd29d4a4a1bbb28b5"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
+hash = "70025df2a0bd177a43d720d1450d0d00ee88114bf18a25c83b1907d798fcf64f"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "19f9479c1a4b9e5dee34eab19bcb54944a2044f69e58408fb85e7d1d5ce333dd"
+hash = "dc7d0673d0d8ce0965e74c43da862c06386ed0f7020e37ab992b3128a893c28c"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "022c64cbff3fbce3b4a988405c6cb492a46592c83e842752331844de68c1d8c0"
+hash = "3cc16353bd1e226ac3b4a93fc2beb6ccc3481613a924e222705ff6814cf74f57"
 metafile = true
 
 [[files]]
