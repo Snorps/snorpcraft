@@ -35,11 +35,6 @@ hash = "fed9bdaac0173f3cab2692f538441afda1e2cd46c6f6363790b424c009e34e03"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "19e74f770611dabc1bd0713f3a7622abd65b4aaca6b37282135e8fb462630f2d"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "137f9f7268efee46f378498be772d7828ac77ba239294c7051a782c9f0ee56ae"
 metafile = true
