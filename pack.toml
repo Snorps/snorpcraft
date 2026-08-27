@@ -1,6 +1,6 @@
 name = "Snorpcraft 26.1.2"
 author = "Snorps"
-version = "32"
+version = "33"
 pack-format = "packwiz:1.1.0"
 
 [index]
