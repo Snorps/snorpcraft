@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "distant-horizons-iris-shaders.pw.toml"
+hash = "8c030f31d3451b32694ee02e95b14e1b473fd08f4b3e4f905cca6078a4b62eed"
+metafile = true
+
+[[files]]
 file = "index,html"
 hash = "f2251190601777354f564eb26a5413b45cd817bf6598ccf37b4cb316bd6a6349"
 
@@ -27,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "813e5457c898d3ffb8d20bac7d3399b2170b32daaffd84485f601eb97dc43c50"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "224a094cb6efc0bc3f3dee3da47abc2e33c6ce5fb881518b330dcfe2a44ef78d"
 metafile = true
 
 [[files]]

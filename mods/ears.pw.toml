@@ -1,0 +1,13 @@
+name = "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)"
+filename = "ears-thermite-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92ff8d8ff51d02af1db35ca9486f13d576e506db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8674336
+project-id = 412013

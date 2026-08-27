@@ -1,0 +1,13 @@
+name = "Distant Horizons & Iris Shaders"
+filename = "Distant Horizons  Iris Shaders Distant Horizons  Iris Shaders 0.4.1 26.1.2 Fabric.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a27b64f7aee57a6503ff7984a34dafe24d47966"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7985845
+project-id = 1156104
